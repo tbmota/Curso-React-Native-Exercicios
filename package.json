@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@types/react-native": "^0.65.8",
+    "lodash": "^4.17.21",
     "react": "17.0.2",
     "react-native": "0.66.0"
   },
